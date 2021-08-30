@@ -1,5 +1,5 @@
 # Autowipes
-I Am Not A Developer In Any Way, I Simply Made A This Script To Do Auto Wipes On My Server Since I Never Found Anything Like it.
+I Am Not A Developer In Any Way, I Simply Made This Script To Do Auto Wipes On My Server Since I Never Found Anything Like it.
 
 Automatic Carwipes Every 45 Minutes, And Entitywipes Every 1 Hour 
 
