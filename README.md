@@ -10,9 +10,5 @@ In the "No Gear Icon" folder you will find the code to remove the gear icon that
 To install it's the same as any other resource:
 Drag and drop into your resources and add "start wipes" into your "server.cfg"
 
-
-If you would like to see previews go here:
-https://forum.cfx.re/t/automatic-carwipe-entitywipe/4745398
-
 If you need any help feel free to contact me on discord:
 SMILXY#5456
