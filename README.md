@@ -14,3 +14,6 @@ Drag and drop into your resources and add "start wipes" into your "server.cfg"
 
 If you would like to see previews go here:
 https://forum.cfx.re/t/automatic-carwipe-entitywipe/4745398
+
+If you need any help feel free to contact me on discord:
+SMILXY#5456
