@@ -4,4 +4,9 @@ This Is Only The Announcements And The Command Executions
 
 Automatic Carwipes Every 45 Minutes, And Entitywipes Every 1 Hour 
 
+You can change how often they happen by changeing "local a" on sv_ and "local x" on cl_
+
 In the "No Gear Icon" folder you will find the code to remove the gear icon that shows up in the chat. 
+
+To install it's the same as any other resource 
+Drag and drop into your resources and add "start wipes" into your "server.cfg"
